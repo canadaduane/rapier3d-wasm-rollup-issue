@@ -24,9 +24,9 @@
     js-tokens "^4.0.0"
 
 "@dimforge/rapier3d@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@dimforge/rapier3d/-/rapier3d-0.2.2.tgz#31efc95363b9b288841fa0d7173fc2bcebbcd184"
-  integrity sha512-Kgcd6D+uF1+oodhO8q3LOGpS9uA/4cNesapMxw5ILgR4+RzV4UucvydIGg4g4QmvWTpb2epBYATr+dDPiZrnIQ==
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@dimforge/rapier3d/-/rapier3d-0.2.4.tgz#26667fcd768f501f8490005f108627698bc598de"
+  integrity sha512-O1VORNpT2juGmAkEMvw+weUa0/2Z/cgfHQmumBR8bAorqF9b/4vAVd88rBxSy25LMBwEwmt1F4TPPc7JO48NaQ==
 
 "@rollup/plugin-node-resolve@^9.0.0":
   version "9.0.0"

@@ -4,8 +4,9 @@ import resolve from "@rollup/plugin-node-resolve";
 export default {
   input: "index.js",
   output: {
-    file: "dist/bundle.js",
-    format: "iife",
+    // file: "dist/bundle.js",
+    dir: "dist/",
+    format: "cjs",
   },
   plugins: [
     resolve({
